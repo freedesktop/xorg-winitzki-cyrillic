@@ -9,3 +9,6 @@ configure
 install-sh
 missing
 *~
+font-winitzki-cyrillic-*.tar.*
+ChangeLog
+tags
